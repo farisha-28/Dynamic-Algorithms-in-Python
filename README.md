@@ -1,1 +1,1 @@
-# Knapsack-and-JobSequencing-problem-in-Python
+# Dynamic Alogithms
